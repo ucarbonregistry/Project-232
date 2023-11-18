@@ -71,4 +71,10 @@ Vintage Year: 2021
 
 CoU's Issued: 867
 ____________________________
+Serial Number: 0002-011652-012121-UCR-CoU-IN-232-01012022-31122022
 
+Vintage Year: 2022
+
+CoU's Iuused: 470
+________________
+Total 12121
