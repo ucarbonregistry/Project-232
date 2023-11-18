@@ -22,6 +22,8 @@ in vehicles and stationary installations. The UCO’s chemical properties make i
 renewable diesel and biodiesel production. 
 ____________________
 CoUs Issued: 18/11/2023
+
+1st Issuance period: 2014-2022
 ____________
 Serial Number: 0001-000001-000796-UCR-CoU-IN-232-01012014-31122014
 
